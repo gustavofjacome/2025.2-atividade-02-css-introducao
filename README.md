@@ -10,7 +10,9 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 ### Instruções Gerais
 
 - [X] Faça um fork desse repositório para o professor poder acompanhar;
-- [X] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [X] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao),
+- [LINK_ATIVIDADE_1](https://2025-2-atividade-01-html-introducao.vercel.app/);
+- [LINK_ATIVIDADE_2](https://2025-2-atividade-02-css-introducao.vercel.app/);
 - [X] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
 - [X] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
 - [X] Complete todas as tarefas abaixo aplicando os estilos especificados
